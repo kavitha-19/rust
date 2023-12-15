@@ -1,0 +1,90 @@
+TARGET = Some("x86_64-pc-windows-msvc")
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-pc-windows-msvc")
+HOST = Some("x86_64-pc-windows-msvc")
+TARGET = Some("x86_64-pc-windows-msvc")
+TARGET = Some("x86_64-pc-windows-msvc")
+HOST = Some("x86_64-pc-windows-msvc")
+CXX_x86_64-pc-windows-msvc = None
+CXX_x86_64_pc_windows_msvc = None
+HOST_CXX = None
+CXX = None
+TARGET = Some("x86_64-pc-windows-msvc")
+HOST = Some("x86_64-pc-windows-msvc")
+CXXFLAGS_x86_64-pc-windows-msvc = None
+CXXFLAGS_x86_64_pc_windows_msvc = None
+HOST_CXXFLAGS = None
+CXXFLAGS = None
+DEBUG = Some("true")
+running: "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\cl.exe" "/nologo" "/MD" "/Z7" "/W4" "/FoC:\\Users\\Kavitha padala\\Documents\\rust_project\\final_project\\target\\debug\\build\\rustlearn-67d7525f9c659327\\out\\dependencies/libsvm/svm.o" "/c" "dependencies/libsvm/svm.cpp"
+svm.cpp
+dependencies/libsvm/svm.cpp(41): warning C4100: 's': unreferenced formal parameter
+dependencies/libsvm/svm.cpp(56): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+dependencies/libsvm/svm.cpp(507): warning C4458: declaration of 'l' hides class member
+dependencies/libsvm/svm.cpp(426): note: see declaration of 'Solver::l'
+dependencies/libsvm/svm.cpp(507): warning C4458: declaration of 'Q' hides class member
+dependencies/libsvm/svm.cpp(419): note: see declaration of 'Solver::Q'
+dependencies/libsvm/svm.cpp(508): warning C4458: declaration of 'Cp' hides class member
+dependencies/libsvm/svm.cpp(422): note: see declaration of 'Solver::Cp'
+dependencies/libsvm/svm.cpp(508): warning C4458: declaration of 'Cn' hides class member
+dependencies/libsvm/svm.cpp(422): note: see declaration of 'Solver::Cn'
+dependencies/libsvm/svm.cpp(508): warning C4458: declaration of 'eps' hides class member
+dependencies/libsvm/svm.cpp(421): note: see declaration of 'Solver::eps'
+dependencies/libsvm/svm.cpp(1016): warning C4458: declaration of 'l' hides class member
+dependencies/libsvm/svm.cpp(426): note: see declaration of 'Solver::l'
+dependencies/libsvm/svm.cpp(1016): warning C4458: declaration of 'Q' hides class member
+dependencies/libsvm/svm.cpp(419): note: see declaration of 'Solver::Q'
+dependencies/libsvm/svm.cpp(1016): warning C4458: declaration of 'p' hides class member
+dependencies/libsvm/svm.cpp(423): note: see declaration of 'Solver::p'
+dependencies/libsvm/svm.cpp(1016): warning C4458: declaration of 'y' hides class member
+dependencies/libsvm/svm.cpp(414): note: see declaration of 'Solver::y'
+dependencies/libsvm/svm.cpp(1017): warning C4458: declaration of 'alpha' hides class member
+dependencies/libsvm/svm.cpp(418): note: see declaration of 'Solver::alpha'
+dependencies/libsvm/svm.cpp(1017): warning C4458: declaration of 'Cp' hides class member
+dependencies/libsvm/svm.cpp(422): note: see declaration of 'Solver::Cp'
+dependencies/libsvm/svm.cpp(1017): warning C4458: declaration of 'Cn' hides class member
+dependencies/libsvm/svm.cpp(422): note: see declaration of 'Solver::Cn'
+dependencies/libsvm/svm.cpp(1017): warning C4458: declaration of 'eps' hides class member
+dependencies/libsvm/svm.cpp(421): note: see declaration of 'Solver::eps'
+dependencies/libsvm/svm.cpp(1018): warning C4458: declaration of 'si' hides class member
+dependencies/libsvm/svm.cpp(1024): note: see declaration of 'Solver_NU::si'
+dependencies/libsvm/svm.cpp(2646): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+dependencies/libsvm/svm.cpp(2649): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+dependencies/libsvm/svm.cpp(2773): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+dependencies/libsvm/svm.cpp(2777): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+dependencies/libsvm/svm.cpp(2795): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+dependencies/libsvm/svm.cpp(2812): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+dependencies/libsvm/svm.cpp(2814): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+dependencies/libsvm/svm.cpp(2816): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+dependencies/libsvm/svm.cpp(2818): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+dependencies/libsvm/svm.cpp(2820): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+dependencies/libsvm/svm.cpp(2826): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+dependencies/libsvm/svm.cpp(2833): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+dependencies/libsvm/svm.cpp(2840): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+dependencies/libsvm/svm.cpp(2847): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+dependencies/libsvm/svm.cpp(2854): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+dependencies/libsvm/svm.cpp(2878): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+dependencies/libsvm/svm.cpp(2881): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+dependencies/libsvm/svm.cpp(2918): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+dependencies/libsvm/svm.cpp(2921): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+dependencies/libsvm/svm.cpp(2947): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+dependencies/libsvm/svm.cpp(2951): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+dependencies/libsvm/svm.cpp(2957): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+dependencies/libsvm/svm.cpp(2958): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Kavitha padala\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustlearn-0.5.0\dependencies\libsvm\svm.cpp(1675) : warning C4701: potentially uninitialized local variable 'si' used
+exit code: 0
+TARGET = Some("x86_64-pc-windows-msvc")
+running: "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\lib.exe" "/OUT:C:\\Users\\Kavitha padala\\Documents\\rust_project\\final_project\\target\\debug\\build\\rustlearn-67d7525f9c659327\\out\\libsvm.a" "/nologo" "C:\\Users\\Kavitha padala\\Documents\\rust_project\\final_project\\target\\debug\\build\\rustlearn-67d7525f9c659327\\out\\dependencies/libsvm/svm.o"
+exit code: 0
+TARGET = Some("x86_64-pc-windows-msvc")
+HOST = Some("x86_64-pc-windows-msvc")
+TARGET = Some("x86_64-pc-windows-msvc")
+TARGET = Some("x86_64-pc-windows-msvc")
+HOST = Some("x86_64-pc-windows-msvc")
+CXX_x86_64-pc-windows-msvc = None
+CXX_x86_64_pc_windows_msvc = None
+HOST_CXX = None
+CXX = None
+cargo:rustc-link-lib=static=svm
+cargo:rustc-link-search=native=C:\Users\Kavitha padala\Documents\rust_project\final_project\target\debug\build\rustlearn-67d7525f9c659327\out
+TARGET = Some("x86_64-pc-windows-msvc")

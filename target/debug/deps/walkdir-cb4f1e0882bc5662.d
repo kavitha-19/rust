@@ -1,0 +1,10 @@
+C:\Users\Kavitha padala\Documents\rust_project\final_project\target\debug\deps\libwalkdir-cb4f1e0882bc5662.rmeta: C:\Users\Kavitha\ padala\.cargo\registry\src\index.crates.io-6f17d22bba15001f\walkdir-2.4.0\src\lib.rs C:\Users\Kavitha\ padala\.cargo\registry\src\index.crates.io-6f17d22bba15001f\walkdir-2.4.0\src\dent.rs C:\Users\Kavitha\ padala\.cargo\registry\src\index.crates.io-6f17d22bba15001f\walkdir-2.4.0\src\error.rs C:\Users\Kavitha\ padala\.cargo\registry\src\index.crates.io-6f17d22bba15001f\walkdir-2.4.0\src\util.rs
+
+C:\Users\Kavitha padala\Documents\rust_project\final_project\target\debug\deps\libwalkdir-cb4f1e0882bc5662.rlib: C:\Users\Kavitha\ padala\.cargo\registry\src\index.crates.io-6f17d22bba15001f\walkdir-2.4.0\src\lib.rs C:\Users\Kavitha\ padala\.cargo\registry\src\index.crates.io-6f17d22bba15001f\walkdir-2.4.0\src\dent.rs C:\Users\Kavitha\ padala\.cargo\registry\src\index.crates.io-6f17d22bba15001f\walkdir-2.4.0\src\error.rs C:\Users\Kavitha\ padala\.cargo\registry\src\index.crates.io-6f17d22bba15001f\walkdir-2.4.0\src\util.rs
+
+C:\Users\Kavitha padala\Documents\rust_project\final_project\target\debug\deps\walkdir-cb4f1e0882bc5662.d: C:\Users\Kavitha\ padala\.cargo\registry\src\index.crates.io-6f17d22bba15001f\walkdir-2.4.0\src\lib.rs C:\Users\Kavitha\ padala\.cargo\registry\src\index.crates.io-6f17d22bba15001f\walkdir-2.4.0\src\dent.rs C:\Users\Kavitha\ padala\.cargo\registry\src\index.crates.io-6f17d22bba15001f\walkdir-2.4.0\src\error.rs C:\Users\Kavitha\ padala\.cargo\registry\src\index.crates.io-6f17d22bba15001f\walkdir-2.4.0\src\util.rs
+
+C:\Users\Kavitha\ padala\.cargo\registry\src\index.crates.io-6f17d22bba15001f\walkdir-2.4.0\src\lib.rs:
+C:\Users\Kavitha\ padala\.cargo\registry\src\index.crates.io-6f17d22bba15001f\walkdir-2.4.0\src\dent.rs:
+C:\Users\Kavitha\ padala\.cargo\registry\src\index.crates.io-6f17d22bba15001f\walkdir-2.4.0\src\error.rs:
+C:\Users\Kavitha\ padala\.cargo\registry\src\index.crates.io-6f17d22bba15001f\walkdir-2.4.0\src\util.rs:
